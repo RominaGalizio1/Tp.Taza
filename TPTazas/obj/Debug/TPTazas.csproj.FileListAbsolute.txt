@@ -1,0 +1,13 @@
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\bin\Debug\TPTazas.exe.config
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\bin\Debug\TPTazas.exe
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\bin\Debug\TPTazas.pdb
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.csproj.AssemblyReference.cache
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.Form1.resources
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.Properties.Resources.resources
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.csproj.GenerateResource.cache
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.csproj.CoreCompileInputs.cache
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.exe
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.pdb
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.PedidoPlanilla.resources
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.informes.resources
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\TPTazas.menu.resources

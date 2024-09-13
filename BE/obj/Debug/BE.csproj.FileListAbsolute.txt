@@ -1,0 +1,6 @@
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\bin\Debug\BE.dll
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\bin\Debug\BE.pdb
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.dll
+C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.pdb
