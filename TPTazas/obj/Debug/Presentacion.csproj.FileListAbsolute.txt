@@ -14,3 +14,19 @@ C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\bin\Debug\BE.pdb
 C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\Presentacion.exe
 C:\Users\Romin\OneDrive\Escritorio\TAZAS\TPTazas\obj\Debug\Presentacion.pdb
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\bin\Debug\Presentacion.exe.config
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\bin\Debug\Presentacion.exe
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\bin\Debug\Presentacion.pdb
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\bin\Debug\BE.dll
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\bin\Debug\BE.pdb
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presenta.Form1.resources
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.informes.resources
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.menu.resources
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.PedidoPlanilla.resources
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.exe
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\TPTazas\obj\Debug\Presentacion.pdb

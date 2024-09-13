@@ -4,3 +4,9 @@ C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.csproj.AssemblyReferenc
 C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.dll
 C:\Users\Romin\OneDrive\Escritorio\TAZAS\BE\obj\Debug\BE.pdb
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\BE\bin\Debug\BE.dll
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\BE\bin\Debug\BE.pdb
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\BE\obj\Debug\BE.dll
+C:\Users\Romin\OneDrive\Escritorio\archivos con alejo\archivosalejo\Tp.Taza\BE\obj\Debug\BE.pdb
